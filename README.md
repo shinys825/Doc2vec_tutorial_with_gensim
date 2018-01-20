@@ -8,4 +8,4 @@ ___
 Doc2vec_tutorial_with_gensim.ipynb : Jupyter notebookd code  
 ratings_train.txt : Training set  
 ratings_test.txt : Test set  
-빠르게 해보는 Word Embedding.pdf : Introduction for offline PT
+PDF Document : Introduction for offline PT
